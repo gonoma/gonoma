@@ -4,4 +4,4 @@
 
 I build backend services using Python 🐍 and Postgres 🐘
 
-Interested in Website design and development, Systems Architecture, and anything that involves food and nature.
+Interested in building Websites, Systems Architecture, and anything that involves food and nature.
