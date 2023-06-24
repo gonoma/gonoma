@@ -1,7 +1,7 @@
 ### HI THERE! I am gonoma (Gonzalo Nogueras)
 
-🇪🇸 software developer living in 🇬🇧
+🇪🇸 full-stack developer
 
-I build backend services using Python 🐍 and Postgres 🐘
+I build full-stack applications using: Python 🐍; Postgres 🐘; React ⚛; Docker 🐳 and the Cloud 🌦️.
 
-Interested in building Websites, Systems Architecture, and anything that involves food and nature.
+Passionate about data and doing a positive contribution to this world.
