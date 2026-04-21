@@ -1,7 +1,11 @@
 ### HI THERE! I am gonoma (Gonzalo Nogueras)
 
-🇪🇸 full-stack developer
+🇪🇸 Software Engineer
 
-I build full-stack applications using: Python 🐍; Postgres 🐘; React ⚛; Docker 🐳 and the Cloud 🌦️.
+I am passionate about building applicationsm I mainly use:
 
-Passionate about data and doing a positive contribution to this world.
+* Python 🐍 (Django & FastAPI)
+* Postgres 🐘
+* React ⚛
+* Docker 🐳
+* Cloud 🌦️
