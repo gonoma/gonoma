@@ -2,10 +2,4 @@
 
 🇪🇸 Software Engineer
 
-I am passionate about building applicationsm I mainly use:
-
-* Python 🐍 (Django & FastAPI)
-* Postgres 🐘
-* React ⚛
-* Docker 🐳
-* Cloud 🌦️
+I'm here to build applications and services, and also grow food, specially pumpkins 🎃
